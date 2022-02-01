@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartOlusturucu", "WindowsFormsApp3\KartOlusturucu.csproj", "{8CCA952F-C862-4068-A03F-274D04411069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCA952F-C862-4068-A03F-274D04411069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCA952F-C862-4068-A03F-274D04411069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCA952F-C862-4068-A03F-274D04411069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCA952F-C862-4068-A03F-274D04411069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF0553C-35F0-47C4-A9CB-A413A023D18C}
+	EndGlobalSection
+EndGlobal
