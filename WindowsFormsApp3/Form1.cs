@@ -437,7 +437,7 @@ namespace KartOlusuturucu
             var DondurKartNo = kartno.ToCharArray().Reverse();
             var DondurulmusKartNo = DondurKartNo.Select(c => Convert.ToInt32(c.ToString()));
 
-            //Luhn Algoritması (mod10) uygula
+            
             int toplam = 0;
             int konum = 0;
             int[] DondurulmusKartNo_ = DondurulmusKartNo.ToArray();
