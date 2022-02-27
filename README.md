@@ -25,6 +25,7 @@ Her kartın belirli bir kuralı bulunmaktadır:
   * CVV 4 rakamdan oluşur.
   
 Kredi kartları numaraları yukarıdaki kurallara ve **ISO 2894/ANSI 4.13** standardına bağlı olarak üretilmiştir. Ayrıca kart numaraları **Luhn Algoritmasından** geçmektedir.
+**Bu Program Nesne tabanlı programlama temelleri ele alınarak Fabrika tasarım deseni ile oluşturulmuştur.**
 
 ***
 
@@ -54,3 +55,4 @@ Each card has a certain rule:
   * The CVV consists of 4 digits.
 
 Credit card numbers are produced in accordance with the above rules and the **ISO 2894/ANSI 4.13** standard. In addition, the card numbers pass through the **Luhn Algorithm**.
+**This Program has been created with a Factory design pattern by considering the basics of Object-Oriented Programming.**
